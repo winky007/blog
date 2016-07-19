@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bill&#39;s Blog </title>
-    <link>https://winky007.github.io/tags/development/</link>
+    <link>https://winky007.github.io/blog/tags/development/</link>
     <language>en-us</language>
     <author></author>
     <rights>(C) 2016</rights>
@@ -12,10 +12,10 @@
       
         <item>
           <title>My first github blog</title>
-          <link>https://winky007.github.io/post/welcome/</link>
+          <link>https://winky007.github.io/blog/post/welcome/</link>
           <pubDate>Tue, 19 Jul 2016 00:00:00 UTC</pubDate>
           <author></author>
-          <guid>https://winky007.github.io/post/welcome/</guid>
+          <guid>https://winky007.github.io/blog/post/welcome/</guid>
           <description>&lt;p&gt;this page was created by hugo.&lt;/p&gt;
 
 &lt;p&gt;What is Hugo? &amp;hellip;&lt;/p&gt;
