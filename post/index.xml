@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bill&#39;s Blog </title>
+    <link>https://winky007.github.io/post/</link>
+    <language>en-us</language>
+    <author></author>
+    <rights>(C) 2016</rights>
+    <updated>2016-07-19 00:00:00 &#43;0000 UTC</updated>
+
+    
+      
+        <item>
+          <title>My first github blog</title>
+          <link>https://winky007.github.io/post/welcome/</link>
+          <pubDate>Tue, 19 Jul 2016 00:00:00 UTC</pubDate>
+          <author></author>
+          <guid>https://winky007.github.io/post/welcome/</guid>
+          <description>&lt;p&gt;this page was created by hugo.&lt;/p&gt;
+
+&lt;p&gt;What is Hugo? &amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;Hugo is a general-purpose website framework. Technically speaking, Hugo is a static site generator. Unlike other systems which dynamically build a page every time a visitor requests one, Hugo does the building when you create your content. Since websites are viewed far more often than they are edited, Hugo is optimized for website viewing while providing a great writing experience.&lt;/p&gt;
+
+&lt;p&gt;Sites built with Hugo are extremely fast and very secure. Hugo sites can be hosted anywhere, including Heroku, GoDaddy, DreamHost, GitHub Pages, Surge, Aerobatic, Google Cloud Storage, Amazon S3 and CloudFront, and work well with CDNs. Hugo sites run without dependencies on expensive runtimes like Ruby, Python or PHP and without dependencies on any databases.&lt;/p&gt;
+
+&lt;p&gt;We think of Hugo as the ideal website creation tool. With nearly instant build times and the ability to rebuild whenever a change is made, Hugo provides a very fast feedback loop. This is essential when you are designing websites, but also very useful when creating content.&lt;/p&gt;
+</description>
+        </item>
+      
+    
+
+  </channel>
+</rss>
